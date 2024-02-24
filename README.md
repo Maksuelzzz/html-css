@@ -11,6 +11,6 @@
 <br><a href="https://github.com/Maksuelzzz/html-css/blob/main/exercicios/modulo-01/ex008/index.html">exercicio 08</a></br>
 <br><a href="https://github.com/Maksuelzzz/html-css/blob/main/exercicios/modulo-01/ex009/index.html">exercicio 09</a></br>
 <br><a href="https://github.com/Maksuelzzz/html-css/blob/main/exercicios/modulo-01/ex010/index.html">exercicio 10</a></br>
-<br><a href="https://github.com/Maksuelzzz/html-css/blob/main/exercicios/modulo-01/ex011/index.html">exercicio 11</a></br>
+<br><a href="https://github.com/Maksuelzzz/html-css/blob/main/exercicios/modulo-01/ex011/index.html">exercicio 11</a>
 
 
